@@ -8,7 +8,8 @@ So if I talk about the problem statement 𝐀𝐭𝐥𝐢𝐪 𝐆𝐫𝐚𝐧�
 
 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞𝐝--
 Python</p>
-PowerPoint
-
+PowerPoint</p>
 </p>
  
+Linkdin Profile Link -- https://www.linkedin.com/in/nikita-y-dataanalyst/
+Video Presentation link -- https://www.linkedin.com/feed/update/urn:li:ugcPost:7188876489495375873/
