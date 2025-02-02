@@ -11,5 +11,5 @@ Python</p>
 PowerPoint</p>
 </p>
  
-Linkdin Profile Link -- https://www.linkedin.com/in/nikita-y-dataanalyst/</p>
+Linkdin Profile Link -- https://www.linkedin.com/in/gudiya-y-dataanalyst/ /</p>
 Video Presentation link -- https://www.linkedin.com/feed/update/urn:li:ugcPost:7188876489495375873/
